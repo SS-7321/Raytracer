@@ -200,20 +200,3 @@ Created by **Samiuzzaman Shan**
 ## **License**
 This project is open-source. Feel free to modify and use it for research and learning.
 
-```
-
----
-
-### **Why This README is Structured This Way**
-- **Overview** gives a high-level introduction.
-- **Features** highlights the key functionalities.
-- **Installation & Requirements** ensures the user has all dependencies.
-- **Getting Started** provides a **quick-start guide** with sample code.
-- **Main Components** explains core classes (`Ray`, `SphericalRefraction`, `OutputPlane`).
-- **Simulation Workflow** outlines how to use the module step by step.
-- **Advanced Features** showcases more complex calculations (e.g., `find_focus`, `optimise_curvatures`).
-- **Using `SimulationTasks.py`** describes pre-built test cases.
-- **Troubleshooting & Tips** solves common issues.
-- **Contributors & License** acknowledge authorship and rights.
-
-This structure ensures clarity, ease of navigation, and user-friendliness. 🚀
